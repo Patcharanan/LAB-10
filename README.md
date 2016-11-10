@@ -41,6 +41,9 @@
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-4.png">
 </p>
+<p align="center">
+<img src= "https://github.com/Patcharanan/LAB-10/blob/master/imgs/4.PNG?raw=true">
+</p>
 
 ## การวาดเส้นโค้งด้วย Graphics path
  <p align="center">
