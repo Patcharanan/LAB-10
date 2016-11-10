@@ -74,7 +74,9 @@
    <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-8.png">
 </p> 
-
+   <p align="center">
+<img src= "https://github.com/Patcharanan/LAB-10/blob/master/imgs/8.PNG?raw=true">
+</p> 
 ## การวาดส่วนโค้ง (Arc)
    <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-9.png">
