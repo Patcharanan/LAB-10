@@ -49,12 +49,17 @@
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-5.png">
 </p> 
-
+ <p align="center">
+<img src= "https://github.com/Patcharanan/LAB-10/blob/master/imgs/5.PNG?raw=true">
+</p>
 ## การวาดรูปทรงสี่เหลี่ยม
 ### การวาดสี่เหลี่ยมครั้งละรูปเดียว
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-6.png">
 </p> 
+  <p align="center">
+<img src= "https://github.com/Patcharanan/LAB-10/blob/master/imgs/6.PNG?raw=true">
+</p>
 ###การวาดสี่เหลี่ยมพร้อมกันครั้งละหลายๆ รูป
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-7.png">
