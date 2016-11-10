@@ -64,6 +64,9 @@
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-7.png">
 </p> 
+  <p align="center">
+<img src= "https://github.com/Patcharanan/LAB-10/blob/master/imgs/7.PNG?raw=true">
+</p> 
 
 
 ## การวาดวงกลมและวงรี
