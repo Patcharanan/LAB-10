@@ -101,7 +101,9 @@
 </p>  
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
-
+  <p align="center">
+<img src= "https://raw.githubusercontent.com/Patcharanan/LAB-10/5859ff45dc00cc1a9b4b04135feb6cd84f58409d/imgs/12.PNG">
+</p>  
 ##เอกสารอ้างอิง
 ### [Graphics Methods](https://msdn.microsoft.com/en-us/library/system.drawing.graphics_methods(v=vs.110).aspx)
 ### [System.Drawing Namespace](https://msdn.microsoft.com/en-us/library/system.drawing(v=vs.110).aspx)
