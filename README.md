@@ -81,16 +81,24 @@
    <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-9.png">
 </p> 
+## การวาดส่วนโค้ง (Arc)
+   <p align="center">
+<img src= "https://github.com/Patcharanan/LAB-10/blob/master/imgs/9.PNG?raw=true">
+</p>
 ## การวาดรูป Pie
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-10.png">
 </p>  
-
+  <p align="center">
+<img src= "https://github.com/Patcharanan/LAB-10/blob/master/imgs/10.PNG?raw=true">
+</p>  
 ## การสร้าง graphics path จากรูปต่างๆ 
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
 </p>  
-
+  <p align="center">
+<img src= "https://github.com/Patcharanan/LAB-10/blob/master/imgs/11.PNG?raw=true">
+</p>  
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
 
